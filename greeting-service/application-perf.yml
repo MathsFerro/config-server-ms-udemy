@@ -7,4 +7,4 @@ management:
 
 greeting-service:
   greeting: "Hello"
-  default-value: "World PERF Reload 2"
+  default-value: "World PERF Reload 3"
